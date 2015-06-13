@@ -10,8 +10,8 @@ else
 fi
 }
 
-checkInstall bluez
-checkInstall libbluetooth-dev
+#checkInstall bluez
+#checkInstall libbluetooth-dev
 
 # install required node_modules
 echo installing required node_modules

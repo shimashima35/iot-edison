@@ -32,7 +32,7 @@ var reg_domain = ".messaging.internetofthings.ibmcloud.com";
 var qs_host = "quickstart.messaging.internetofthings.ibmcloud.com";
 var qs_type = "iotsample-ti-bbst";
 var configFile = "./device.cfg";
-var ledPath ="/sys/class/leds/beaglebone:green:usr";
+var ledPath ="/home/root/leds/beaglebone:green:usr";
 var caCerts = ["./IoTFoundation.pem", "IoTFoundation-CA.pem"];
 
 
