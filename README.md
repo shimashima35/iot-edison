@@ -1,14 +1,7 @@
-iot-beaglebone
+iot-edison
 ==============
 This repository contains working sample device client software for the IBM Internet of Things Cloud Quickstart service
-running on the TI BeagleBone.
-
-BeagleBone
-==========
-Use a BeagleBone Black to connect a TI SensorTag to the IBM Internet of Things Cloud QuickStart service. Then you can visualize the data transmitted by the SensorTag's temperature, humidity, pressure, accelerometer, gyroscope and magnetometer sensors.
-
-See this [recipe](https://www.ibmdw.net/iot/recipes/ti-beaglebone-sensortag/) for running the code in this repository.
-
+running on the Intel Edison.
 
 Content
 =======
